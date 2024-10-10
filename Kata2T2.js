@@ -1,5 +1,4 @@
 function romanToInt(roman) {
-  // Map Roman numerals to their integer values
   const romanNumerals = {
       'I': 1,
       'V': 5,
