@@ -10,6 +10,6 @@ function extractHashtags(input) {
   return hashtags;
 }
 
-const inputString = "##alot";
+const inputString = "#ok okok ###okokok #1ok #?!" // " ##alot"; //"#120398" "#ok okok ##okok #1ok"
 const result = extractHashtags(inputString);
 console.log(result);
